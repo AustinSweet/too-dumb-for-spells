@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/too-dumb-for-spells/static/css/main.aefd38c0.css",
+    "main.js": "/too-dumb-for-spells/static/js/main.6caff981.js",
+    "static/js/787.f9ee7dd9.chunk.js": "/too-dumb-for-spells/static/js/787.f9ee7dd9.chunk.js",
+    "index.html": "/too-dumb-for-spells/index.html",
+    "main.aefd38c0.css.map": "/too-dumb-for-spells/static/css/main.aefd38c0.css.map",
+    "main.6caff981.js.map": "/too-dumb-for-spells/static/js/main.6caff981.js.map",
+    "787.f9ee7dd9.chunk.js.map": "/too-dumb-for-spells/static/js/787.f9ee7dd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefd38c0.css",
+    "static/js/main.6caff981.js"
+  ]
+}
